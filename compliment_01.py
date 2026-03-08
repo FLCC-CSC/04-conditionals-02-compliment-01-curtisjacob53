@@ -1,8 +1,8 @@
 # FILE NAME - compliment_01.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Jacob Jackson
+# DATE: 03/07/2026
+# BRIEF DESCRIPTION: Compliment assignment  
 
 
 
@@ -15,8 +15,11 @@
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
 
+answer = input("Would you like a compliment?")
+if answer == "yes":
+   print("You have wonderful eyes.")
 
-
+print("Thank you fo playing.")
 
 
 
@@ -66,13 +69,15 @@ Thank you for playing.
 '''
 
 1. On a scale of 1 to 10 (where 10 is the hardest), how would you rate this lab?
-
+4
 
 
 
 2. What was the hardest part of this lab?
 
+I forgot the colon after yes twice but the prompts reminded me. 
 
+#python https://youtu.be/qtGeZJUCxJk?si=2xog_3-YDwrUTQI_
 
 
 
